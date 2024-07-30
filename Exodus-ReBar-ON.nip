@@ -481,7 +481,7 @@
       <ProfileSetting>
         <SettingNameInfo>Enable NV_gpu_multicast extension</SettingNameInfo>
         <SettingID>546493374</SettingID>
-        <SettingValue>219</SettingValue>
+        <SettingValue>2</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
